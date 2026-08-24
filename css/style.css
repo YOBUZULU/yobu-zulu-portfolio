@@ -437,6 +437,16 @@
       transition: 0.22s ease;
     }
 
+.contact-icon.linkedin {
+  color: #ffffff;
+  background: #0A66C2;
+}
+
+.contact-icon.github {
+  color: #ffffff;
+  background: #181717;
+}
+
     .contact-link:hover { background: rgba(255,255,255,0.09); transform: translateX(3px); }
     .contact-icon { width: 34px; height: 34px; border-radius: 12px; display: grid; place-items: center; background: rgba(255,255,255,0.11); }
 
